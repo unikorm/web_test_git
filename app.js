@@ -1,1 +1,1 @@
-console.log("auchččč");
+console.log("auchchchch");
