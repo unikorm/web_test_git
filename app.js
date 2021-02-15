@@ -1,4 +1,2 @@
 console.log("auchchchch");
-function {
-    localStorage
-}
+var cau
